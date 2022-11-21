@@ -1,0 +1,16 @@
+BatchPlant1,325,Object
+BatchPlantType,196,ObjectType
+ConveyorMotorType,71,ObjectType
+ConveyorType,188,ObjectType
+GenericActuatorType,9,ObjectType
+GenericMotorType,22,ObjectType
+GenericSensorType,1,ObjectType
+LevelIndicatorType,29,ObjectType
+LoadcellTransmitterType,37,ObjectType
+MixerMotorType,64,ObjectType
+MixerType,144,ObjectType
+PackagingUnitType,179,ObjectType
+Silo1Type,78,ObjectType
+Silo2Type,100,ObjectType
+Silo3Type,122,ObjectType
+ValveType,51,ObjectType
